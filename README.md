@@ -4,4 +4,4 @@ first test
 
 
 
-https://travis-ci.org/andrewleo/Travis.png?branch=master
+[![Build Status](https://travis-ci.org/andrewleo/Travis.png?branch=master)](https://travis-ci.org/andrewleo/Travis)
